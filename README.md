@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyeon7&layout=compact)](https://https://github.com/chaehyeon7/github-readme-stats)
 
-<a href="https://github.com/chaehyeon7" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-#3776AB?style=flat&logo=python.svg&logoColor=#3776AB"/></a>
 
 
