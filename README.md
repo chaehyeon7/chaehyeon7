@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyeon7&count_private=ture&show_icons=true&theme=buefy)](https://github.com/chaehyeon7/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyeon7&layout=compact)](https://https://github.com/chaehyeon7/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyeon7&layout=compact)](https://https://github.com/chaehyeon7/github-readme-stats)
 
 
 
