@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=HELLO%20&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaehyeon7&show_icons=true&gruvbox_light)
